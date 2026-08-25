@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-azul.png" alt="Kaelix" width="340" />
+<img src="assets/logo-azul.png" alt="Khaeryn" width="340" />
 
 <br><br>
 
@@ -26,7 +26,7 @@ equipes e empresas que buscam produtividade, qualidade e performance.
 
 <img src="assets/products/ui.svg" width="18" />
 
-<strong>Kaelix UI</strong><br> <img src="https://img.shields.io/badge/em%20desenvolvimento-DC2626?style=flat-square" />
+<strong>Khaeryn UI</strong><br> <img src="https://img.shields.io/badge/em%20desenvolvimento-DC2626?style=flat-square" />
 
 </td>
 
@@ -42,13 +42,13 @@ Biblioteca de componentes React moderna e acessível.
 
 <img src="assets/products/starter.svg" width="18" />
 
-<strong>Kaelix Starter</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
+<strong>Khaeryn Starter</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
 
 </td>
 
 <td>
 
-Template React com o Kaelix UI pré-configurado para iniciar novos projetos rapidamente.
+Template React com o Khaeryn UI pré-configurado para iniciar novos projetos rapidamente.
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ Template React com o Kaelix UI pré-configurado para iniciar novos projetos rapi
 
 <img src="assets/products/flow.svg" width="18" />
 
-<strong>Kaelix Flow</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
+<strong>Khaeryn Flow</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
 
 </td>
 
@@ -74,7 +74,7 @@ Plataforma para gestão de projetos, tarefas e colaboração entre equipes.
 
 <img src="assets/products/finance.svg" width="18" />
 
-<strong>Kaelix Finance</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
+<strong>Khaeryn Finance</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
 
 </td>
 
@@ -90,7 +90,7 @@ Solução para controle financeiro pessoal e empresarial.
 
 <img src="assets/products/mesh.svg" width="18" />
 
-<strong>Kaelix Mesh</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
+<strong>Khaeryn Mesh</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
 
 </td>
 
@@ -113,9 +113,3 @@ Comunicação offline para cenários de emergência e conectividade limitada.
 </div>
 
 ---
-
-## <img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" /> Comunidade
-
-Contribuições são sempre bem-vindas.
-
-Leia o **CONTRIBUTING.md** para saber como colaborar.
